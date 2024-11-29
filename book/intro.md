@@ -1,6 +1,8 @@
 (intro)=
-# Welcome to the Template Book
+# Hi I am Arya 
 
-_Write book intro here. This is the first page the student will see when opening the url._
+This is the fitrst time I am creating a techbook. IIT Madras very good yaay.
 
-This book can be used as a template for other books. It includes a starter package of the software developed by the TeachBooks initiative.
+# Fun Fact
+
+I am in competition team called Agnirath in Mechanical module.
