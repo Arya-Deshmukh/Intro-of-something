@@ -9,6 +9,7 @@ parts:
       - file: myfirstlesson.md
       - file: mysecondlesson.md
       - file: some_content/text_and_code.ipynb
+      - file: Chess_program.c
     - file: references.md
     - file: changelog.md
     - file: credits.md
